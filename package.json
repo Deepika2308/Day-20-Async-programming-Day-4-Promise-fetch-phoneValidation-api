@@ -1,0 +1,20 @@
+{
+  "name": "abstract_phone_validation_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepika2308/Day20-Async-programming-Day-4-promise-fetch-phone-validation-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepika2308/Day20-Async-programming-Day-4-promise-fetch-phone-validation-api/issues"
+  },
+  "homepage": "https://github.com/Deepika2308/Day20-Async-programming-Day-4-promise-fetch-phone-validation-api#readme"
+}
